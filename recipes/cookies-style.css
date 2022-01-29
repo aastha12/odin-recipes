@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    color:darkgoldenrod;
+}
+
+h2{
+    font-family: Tahoma,Geneva,sans-serif;
+    color:brown;
+}
+
+body
+{
+    background-color:whitesmoke;
+}
+
+.cookies-image
+{
+    height:400px;
+    width: 400px;
+    /*to make the image center*/
+    display:block;
+    margin: 0 auto;
+}
